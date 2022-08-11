@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HOLY SHIT I FINISH YOUR FUCKING SONG WITH TRIPLE TROUBLE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Happy Sonic Exe Speak",
+			"text": "Hahahaha"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Happy Sonic Exe Speak",
+			"text": "it was really fun to play with youp"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Thx"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak",
+			"text": "Thanks to you i found peace and well done you freed tails,knuckles and eggman"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh I save them with my issue skill"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak",
+			"text": "Ok But good bye guys i will go home and thx for playing my mod"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See ya sonic exe"
+		}
+	]
+}

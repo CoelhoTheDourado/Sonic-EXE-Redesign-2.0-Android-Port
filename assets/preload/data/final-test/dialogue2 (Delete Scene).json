@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		}
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey guys i am back but i was late with hypno lullaby and geting fucked by revie sonic"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "go fuck yourself gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ok we can go home you are tired for today"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "angry",
+			"expression": "Not Happy Sonic Exe Speak",
+			"text": "WTF ARE YOU DOIN IN MY MOD!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "angry",
+			"expression": "Not Happy Sonic Exe Speak",
+			"text": "WE WILL DRAW WITH CRINGE FANART"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "you mean rule34"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "angry",
+			"expression": "Not Happy Sonic Exe Speak",
+			"text": "don't talk about it ok or you will die from the inside"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "oh shit here we go again"
+		}
+	]
+}

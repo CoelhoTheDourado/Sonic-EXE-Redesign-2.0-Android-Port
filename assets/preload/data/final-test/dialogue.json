@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "EXECUTOR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "Oh you finally here because i almost corrupt the earth"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "its will be like the mod pibby"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "angry",
+			"expression": "Tails Speak",
+			"text": "SHUT UP EXECUTOR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "WTF TAILS YOU STOP WORKING WITH THE GOD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "ME"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "knuckles",
+			"boxState": "angry",
+			"expression": "Knuckles Speak",
+			"text": "NO ONE WANT TO  SEE YOUR POWER DEMON"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "angry",
+			"expression": "Eggman Speak",
+			"text": "GET DOWN THE BLUE RAT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "NOW ITS WILL BE 1V1 TO RAP BATTLE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "angry",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "AGAIN WITH YOUR DUMB GAME!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BUT WE ARE IN RYTHM GAME!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "Ok if you want to save the world"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "You will beat me in rap battle like before"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Everyone Know For That"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I Will Save The World And No One Help You"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "knuckles",
+			"boxState": "normal",
+			"expression": "Knuckles Speak",
+			"text": "BF can you  start the song pls"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok knucklehead"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "knuckles",
+			"boxState": "angry",
+			"expression": "Knuckles Speak",
+			"text": "HEY WHAT DID YOU SAY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "angry",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "SHUT UP KNUCKLES WE NEED TO RAP BATTLE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "knuckles",
+			"boxState": "normal",
+			"expression": "Knuckles Speak",
+			"text": ":("
+		}
+	]
+}
