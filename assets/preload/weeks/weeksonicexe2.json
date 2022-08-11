@@ -1,0 +1,49 @@
+{
+	"storyName": "Ready For Round 2?",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekexe",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"invisible",
+		"newsonicexe2",
+		"invisible"
+	],
+	"songs": [
+		[
+			"Race With The Devil",
+			"sonicexephase4",
+			[
+				0,
+				88,
+				183
+			]
+		],
+		[
+			"Hill Of The Void",
+			"sonicexephase2",
+			[
+				0,
+				28,
+				128
+			]
+		],
+		[
+			"Confronting Yourself",
+			"sonicexephase3",
+			[
+				0,
+				14,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sonic Exe Week 2"
+}

@@ -1,0 +1,67 @@
+{
+	"storyName": "Triple Trouble",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "glitch",
+	"weekBefore": "weekexe2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"invisible",
+		"newsonicexefinal",
+		"invisible"
+	],
+	"songs": [
+		[
+			"Tails",
+			"tailsexe",
+			[
+				102,
+				102,
+				102
+			]
+		],
+		[
+			"Knuckles",
+			"knucklesexe",
+			[
+				102,
+				0,
+				0
+			]
+		],
+		[
+			"Eggman",
+			"eggmanexe",
+			[
+				153,
+				102,
+				0
+			]
+		],
+		[
+			"Final",
+			"sonicexephase3",
+			[
+				0,
+				14,
+				102
+			]
+		],
+		[
+			"Good bye",
+			"sonicexe",
+			[
+				0,
+				88,
+				183
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sonic Exe Week Final"
+}

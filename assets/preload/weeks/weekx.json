@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Cycles",
+			"lordx",
+			[
+				120,
+				119,
+				176
+			]
+                ],
+		[
+			"Fate",
+			"lordx",
+			[
+				120,
+				119,
+				176
+			]
+                ]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"invisible",
+		"lordx",
+		"invisible"
+	],
+	"storyName": "Lord X Return",
+	"weekName": "Lord X Return",
+	"freeplayColor": [
+		120,
+		119,
+		176
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "Is That A Creepy Hedgehog?",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "hill",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"invisible",
+		"newsonicexe",
+		"invisible"
+	],
+	"songs": [
+		[
+			"Too Slow",
+			"sonicexe",
+			[
+				0,
+				88,
+				183
+			]
+		],
+		[
+			"You cant run",
+			"sonicexephase2",
+			[
+				0,
+				28,
+				128
+			]
+		],
+		[
+			"I am god",
+			"sonicexephase3",
+			[
+				0,
+				14,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sonic Exe Week"
+}

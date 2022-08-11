@@ -1,0 +1,183 @@
+{
+	"storyName": "Extra Song",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Talentless Fox",
+			"tails",
+			[
+				255,
+				136,
+				0
+			]
+                ],
+		[
+			"No Villains",
+			"sonic",
+			[
+				0,
+				0,
+				204
+			]
+                ],
+		[
+			"Endless",
+			"majinsonic",
+			[
+				0,
+				0,
+				255
+			]
+                ],
+		[
+			"Too Fest",
+			"sanic",
+			[
+				63,
+				71,
+				203
+			]
+                ],
+		[
+			"Chaos",
+			"fleetway",
+			[
+				254,
+				209,
+				0
+			]
+                ],
+		[
+			"Super-Piss",
+			"eggman",
+			[
+				51,
+				51,
+				51
+			]
+                ],
+		[
+			"Milk",
+			"sunky",
+			[
+				37,
+				71,
+				251
+			]
+                ],
+		[
+			"Sunshine",
+			"tailsdoll",
+			[
+				255,
+				153,
+				0
+			]
+                ],
+		[
+			"Copy cat",
+			"sunky",
+			[
+				37,
+				71,
+				251
+			]
+		],
+		[
+			"Final Destination",
+			"duosonicexe",
+			[
+				0,
+				88,
+				183
+			]
+		],
+		[
+			"Hellhedgehog",
+			"sonicexephase3",
+			[
+				0,
+				14,
+				102
+			]
+		],
+		[
+			"Left Unchecked",
+			"sonicexe",
+			[
+				0,
+				88,
+				183
+			]
+                ],
+		[
+			"Unknown Suffering",
+			"sonicexephase5",
+			[
+				0,
+				88,
+				183
+			]
+		],
+		[
+			"Attack",
+			"sonicexephase5",
+			[
+				0,
+				88,
+				183
+			]
+		],
+		[
+			"Hill",
+			"sonicexe",
+			[
+				0,
+				88,
+				183
+			]
+		],
+		[
+			"Fast",
+			"pibbysonic",
+			[
+				0,
+				0,
+				204
+			]
+                ],
+		[
+			"Crazy",
+			"crazytails",
+			[
+				255,
+				136,
+				0
+			]
+		],
+		[
+			"Slaybells",
+			"duo",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"sonic",
+		"bf",
+		"gf"
+	],
+	"weekName": "Extra Song"
+}
