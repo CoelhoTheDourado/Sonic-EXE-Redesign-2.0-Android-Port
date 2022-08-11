@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tails Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tails Exe Speak0000" x="0" y="0" width="237" height="280" frameX="-3" frameY="0" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Exe Speak0001" x="237" y="0" width="238" height="278" frameX="-3" frameY="-2" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Exe Speak0002" x="475" y="0" width="239" height="277" frameX="-2" frameY="-3" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Exe Speak0003" x="714" y="0" width="241" height="276" frameX="-1" frameY="-4" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Exe Speak0004" x="0" y="280" width="243" height="274" frameX="0" frameY="-6" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Speak0000" x="243" y="280" width="237" height="280" frameX="-3" frameY="0" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Speak0001" x="480" y="280" width="238" height="278" frameX="-3" frameY="-2" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Speak0002" x="718" y="280" width="239" height="277" frameX="-2" frameY="-3" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Speak0003" x="0" y="560" width="241" height="276" frameX="-1" frameY="-4" frameWidth="243" frameHeight="280"/>
+	<SubTexture name="Tails Speak0004" x="241" y="560" width="243" height="274" frameX="0" frameY="-6" frameWidth="243" frameHeight="280"/>
+</TextureAtlas>

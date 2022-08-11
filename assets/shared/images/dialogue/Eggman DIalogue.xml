@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eggman DIalogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eggman Exe Speak0000" x="0" y="0" width="409" height="377" frameX="-4" frameY="0" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Exe Speak0001" x="409" y="0" width="411" height="374" frameX="-3" frameY="-3" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Exe Speak0002" x="820" y="0" width="412" height="373" frameX="-3" frameY="-5" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Exe Speak0003" x="1232" y="0" width="414" height="371" frameX="-2" frameY="-7" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Exe Speak0004" x="0" y="377" width="417" height="369" frameX="0" frameY="-9" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Speak0000" x="417" y="377" width="409" height="377" frameX="-4" frameY="0" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Speak0001" x="826" y="377" width="411" height="374" frameX="-3" frameY="-3" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Speak0002" x="1237" y="377" width="412" height="373" frameX="-3" frameY="-5" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Speak0003" x="0" y="754" width="414" height="371" frameX="-2" frameY="-7" frameWidth="417" frameHeight="378"/>
+	<SubTexture name="Eggman Speak0004" x="414" y="754" width="417" height="369" frameX="0" frameY="-9" frameWidth="417" frameHeight="378"/>
+</TextureAtlas>

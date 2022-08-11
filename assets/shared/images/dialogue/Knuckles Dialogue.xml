@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Knuckles Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Knuckles Exe Speak0000" x="0" y="0" width="269" height="317" frameX="-4" frameY="0" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Exe Speak0001" x="269" y="0" width="271" height="315" frameX="-3" frameY="-2" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Exe Speak0002" x="540" y="0" width="273" height="312" frameX="-2" frameY="-5" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Exe Speak0003" x="813" y="0" width="275" height="310" frameX="-1" frameY="-7" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Exe Speak0004" x="1088" y="0" width="277" height="308" frameX="0" frameY="-9" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Speak0000" x="1365" y="0" width="269" height="317" frameX="-4" frameY="0" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Speak0001" x="1634" y="0" width="271" height="315" frameX="-3" frameY="-2" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Speak0002" x="0" y="317" width="273" height="312" frameX="-2" frameY="-5" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Speak0003" x="273" y="317" width="275" height="310" frameX="-1" frameY="-7" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Knuckles Speak0004" x="548" y="317" width="277" height="308" frameX="0" frameY="-9" frameWidth="277" frameHeight="317"/>
+</TextureAtlas>
