@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "Not Happy Sonic Exe Speak",
+			"text": "HEY BOYFRIEND",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "sonicexe"
+		},
+		{
+			"expression": "talk",
+			"text": "What do you want in the end",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "WAIT WHAT!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "you weren't supposed to be dead",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Not Happy Sonic Exe Speak",
+			"text": "I AM HERE FOR MY REVENGE",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "sonicexe"
+		},
+		{
+			"expression": "pissed",
+			"text": "Ok Man A Other Rap Battle With You",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Not Happy Sonic Exe Speak",
+			"text": "I WILL SHIT YOUR PANTS ",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "sonicexe"
+		}
+	]
+}
