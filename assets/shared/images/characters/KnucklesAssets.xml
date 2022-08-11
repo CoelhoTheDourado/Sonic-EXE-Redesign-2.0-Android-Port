@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KnucklesAssets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Knuckles Down0000" x="0" y="0" width="480" height="439" frameX="-9" frameY="-2" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0001" x="480" y="0" width="478" height="439" frameX="-8" frameY="-2" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0002" x="958" y="0" width="476" height="439" frameX="-7" frameY="-2" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0003" x="1434" y="0" width="477" height="439" frameX="-6" frameY="-2" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0004" x="1911" y="0" width="476" height="439" frameX="-6" frameY="-2" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0005" x="2387" y="0" width="477" height="439" frameX="-5" frameY="-2" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0006" x="2864" y="0" width="478" height="440" frameX="-4" frameY="-1" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0007" x="3342" y="0" width="478" height="440" frameX="-3" frameY="-1" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0008" x="0" y="440" width="479" height="440" frameX="-2" frameY="-1" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0009" x="479" y="440" width="480" height="441" frameX="-1" frameY="0" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down0010" x="959" y="440" width="480" height="441" frameX="0" frameY="0" frameWidth="489" frameHeight="441"/>
+	<SubTexture name="Knuckles Down Punch0000" x="1439" y="440" width="475" height="448" frameX="-9" frameY="-7" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0001" x="1914" y="440" width="500" height="455" frameX="-7" frameY="0" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0002" x="2414" y="440" width="504" height="434" frameX="-5" frameY="-21" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0003" x="2918" y="440" width="494" height="436" frameX="-2" frameY="-19" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0004" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0005" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0006" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0007" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0008" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0009" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Down Punch0010" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Idle0000" x="0" y="895" width="277" height="464" frameX="0" frameY="0" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0001" x="277" y="895" width="277" height="462" frameX="-1" frameY="-3" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0002" x="554" y="895" width="277" height="460" frameX="-2" frameY="-5" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0003" x="831" y="895" width="277" height="457" frameX="-3" frameY="-8" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0004" x="1108" y="895" width="277" height="455" frameX="-4" frameY="-10" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0005" x="1385" y="895" width="276" height="453" frameX="-6" frameY="-12" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0006" x="1661" y="895" width="277" height="455" frameX="-4" frameY="-10" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0007" x="1938" y="895" width="277" height="457" frameX="-3" frameY="-8" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0008" x="2215" y="895" width="277" height="460" frameX="-2" frameY="-5" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0009" x="2492" y="895" width="277" height="461" frameX="-1" frameY="-3" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Idle0010" x="0" y="895" width="277" height="464" frameX="0" frameY="0" frameWidth="282" frameHeight="465"/>
+	<SubTexture name="Knuckles Left0000" x="2769" y="895" width="442" height="456" frameX="0" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0001" x="3211" y="895" width="427" height="457" frameX="-19" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0002" x="3638" y="895" width="419" height="456" frameX="-37" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0003" x="0" y="1359" width="418" height="456" frameX="-39" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0004" x="418" y="1359" width="417" height="456" frameX="-41" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0005" x="835" y="1359" width="416" height="456" frameX="-43" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0006" x="1251" y="1359" width="415" height="456" frameX="-45" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0007" x="1666" y="1359" width="414" height="456" frameX="-47" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0008" x="2080" y="1359" width="413" height="456" frameX="-49" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0009" x="2493" y="1359" width="412" height="456" frameX="-51" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left0010" x="2905" y="1359" width="412" height="456" frameX="-53" frameY="0" frameWidth="465" frameHeight="457"/>
+	<SubTexture name="Knuckles Left Punch0000" x="3317" y="1359" width="479" height="456"/>
+	<SubTexture name="Knuckles Left Punch0001" x="0" y="1815" width="475" height="456" frameX="-3" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0002" x="475" y="1815" width="473" height="456" frameX="-5" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0003" x="948" y="1815" width="470" height="456" frameX="-8" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0004" x="1418" y="1815" width="467" height="456" frameX="-11" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0005" x="1418" y="1815" width="467" height="456" frameX="-11" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0006" x="1418" y="1815" width="467" height="456" frameX="-11" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0007" x="1418" y="1815" width="467" height="456" frameX="-11" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0008" x="1418" y="1815" width="467" height="456" frameX="-11" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0009" x="1418" y="1815" width="467" height="456" frameX="-11" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Left Punch0010" x="1418" y="1815" width="467" height="456" frameX="-11" frameY="0" frameWidth="479" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0000" x="1439" y="440" width="475" height="448" frameX="-9" frameY="-7" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0001" x="1914" y="440" width="500" height="455" frameX="-7" frameY="0" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0002" x="2414" y="440" width="504" height="434" frameX="-5" frameY="-21" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0003" x="2918" y="440" width="494" height="436" frameX="-2" frameY="-19" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0004" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0005" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0006" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0007" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0008" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0009" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Punch0010" x="3412" y="440" width="480" height="440" frameX="0" frameY="-16" frameWidth="509" frameHeight="456"/>
+	<SubTexture name="Knuckles Right0000" x="1885" y="1815" width="390" height="434" frameX="-48" frameY="-4" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0001" x="2275" y="1815" width="391" height="437" frameX="-31" frameY="-3" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0002" x="2666" y="1815" width="391" height="438" frameX="-15" frameY="-1" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0003" x="3057" y="1815" width="391" height="438" frameX="-13" frameY="-1" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0004" x="3448" y="1815" width="391" height="438" frameX="-11" frameY="-1" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0005" x="0" y="2271" width="391" height="438" frameX="-9" frameY="-1" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0006" x="391" y="2271" width="392" height="438" frameX="-7" frameY="-1" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0007" x="783" y="2271" width="392" height="438" frameX="-5" frameY="-1" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0008" x="1175" y="2271" width="391" height="438" frameX="-4" frameY="0" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0009" x="1566" y="2271" width="391" height="438" frameX="-2" frameY="0" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right0010" x="1957" y="2271" width="392" height="438" frameX="0" frameY="0" frameWidth="438" frameHeight="440"/>
+	<SubTexture name="Knuckles Right Punch0000" x="2349" y="2271" width="343" height="434" frameX="-1" frameY="0" frameWidth="362" frameHeight="434"/>
+	<SubTexture name="Knuckles Right Punch0001" x="2692" y="2271" width="339" height="434" frameX="-1" frameY="0" frameWidth="362" frameHeight="434"/>
+	<SubTexture name="Knuckles Right Punch0002" x="3031" y="2271" width="338" height="434" frameX="0" frameY="0" frameWidth="362" frameHeight="434"/>
+	<SubTexture name="Knuckles Right Punch0003" x="3369" y="2271" width="350" height="434" frameX="0" frameY="0" frameWidth="362" frameHeight="434"/>
+	<SubTexture name="Knuckles Right Punch0004" x="3719" y="2271" width="362" height="434"/>
+	<SubTexture name="Knuckles Right Punch0005" x="3719" y="2271" width="362" height="434"/>
+	<SubTexture name="Knuckles Right Punch0006" x="3719" y="2271" width="362" height="434"/>
+	<SubTexture name="Knuckles Right Punch0007" x="3719" y="2271" width="362" height="434"/>
+	<SubTexture name="Knuckles Right Punch0008" x="3719" y="2271" width="362" height="434"/>
+	<SubTexture name="Knuckles Right Punch0009" x="3719" y="2271" width="362" height="434"/>
+	<SubTexture name="Knuckles Right Punch0010" x="3719" y="2271" width="362" height="434"/>
+	<SubTexture name="Knuckles Up0000" x="0" y="2709" width="279" height="455" frameX="0" frameY="0" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0001" x="279" y="2709" width="279" height="452" frameX="-2" frameY="-3" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0002" x="558" y="2709" width="281" height="450" frameX="-3" frameY="-5" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0003" x="839" y="2709" width="280" height="449" frameX="-4" frameY="-6" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0004" x="1119" y="2709" width="280" height="449" frameX="-4" frameY="-6" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0005" x="1399" y="2709" width="280" height="449" frameX="-4" frameY="-6" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0006" x="1679" y="2709" width="280" height="448" frameX="-4" frameY="-7" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0007" x="1959" y="2709" width="279" height="448" frameX="-5" frameY="-7" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0008" x="2238" y="2709" width="279" height="448" frameX="-5" frameY="-7" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0009" x="2517" y="2709" width="280" height="447" frameX="-5" frameY="-8" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up0010" x="2797" y="2709" width="280" height="448" frameX="-5" frameY="-8" frameWidth="285" frameHeight="456"/>
+	<SubTexture name="Knuckles Up Punch0000" x="3077" y="2709" width="323" height="449" frameX="-26" frameY="-5" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0001" x="3400" y="2709" width="405" height="450" frameX="-19" frameY="-4" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0002" x="0" y="3164" width="443" height="451" frameX="-13" frameY="-3" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0003" x="443" y="3164" width="440" height="452" frameX="-7" frameY="-2" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0004" x="883" y="3164" width="398" height="454" frameX="0" frameY="0" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0005" x="883" y="3164" width="398" height="454" frameX="0" frameY="0" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0006" x="883" y="3164" width="398" height="454" frameX="0" frameY="0" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0007" x="883" y="3164" width="398" height="454" frameX="0" frameY="0" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0008" x="883" y="3164" width="398" height="454" frameX="0" frameY="0" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0009" x="883" y="3164" width="398" height="454" frameX="0" frameY="0" frameWidth="456" frameHeight="454"/>
+	<SubTexture name="Knuckles Up Punch0010" x="883" y="3164" width="398" height="454" frameX="0" frameY="0" frameWidth="456" frameHeight="454"/>
+</TextureAtlas>

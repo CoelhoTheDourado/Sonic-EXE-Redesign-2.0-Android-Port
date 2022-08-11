@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF Redesign.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gf Dance0000" x="0" y="0" width="336" height="522" frameX="-17" frameY="-7" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0001" x="336" y="0" width="335" height="524" frameX="-13" frameY="-5" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0002" x="671" y="0" width="334" height="526" frameX="-10" frameY="-3" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0003" x="1005" y="0" width="336" height="527" frameX="-7" frameY="-2" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0004" x="1341" y="0" width="340" height="528" frameX="-3" frameY="-1" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0005" x="1681" y="0" width="342" height="529" frameX="0" frameY="0" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0006" x="2023" y="0" width="340" height="528" frameX="-3" frameY="-1" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0007" x="2363" y="0" width="336" height="527" frameX="-7" frameY="-2" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0008" x="2699" y="0" width="334" height="526" frameX="-10" frameY="-3" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0009" x="3033" y="0" width="335" height="524" frameX="-13" frameY="-5" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0010" x="0" y="0" width="336" height="522" frameX="-17" frameY="-7" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0011" x="3368" y="0" width="338" height="521" frameX="-19" frameY="-8" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0012" x="3706" y="0" width="340" height="519" frameX="-21" frameY="-10" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0013" x="0" y="529" width="342" height="518" frameX="-23" frameY="-11" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0014" x="342" y="529" width="344" height="518" frameX="-25" frameY="-11" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0015" x="686" y="529" width="345" height="519" frameX="-27" frameY="-10" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0016" x="1031" y="529" width="344" height="518" frameX="-25" frameY="-11" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0017" x="1375" y="529" width="342" height="518" frameX="-23" frameY="-11" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0018" x="1717" y="529" width="341" height="519" frameX="-21" frameY="-10" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Dance0019" x="2058" y="529" width="339" height="520" frameX="-19" frameY="-9" frameWidth="372" frameHeight="529"/>
+	<SubTexture name="Gf Miss0000" x="2397" y="529" width="336" height="522" frameX="-4" frameY="0" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0001" x="2733" y="529" width="337" height="522" frameX="-2" frameY="0" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0002" x="3070" y="529" width="337" height="521" frameX="-1" frameY="-1" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0003" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0004" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0005" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0006" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0007" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0008" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0009" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0010" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0011" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0012" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0013" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0014" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0015" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0016" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0017" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0018" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0019" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0020" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0021" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0022" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0023" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0024" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0025" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0026" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0027" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0028" x="3746" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Miss0029" x="3407" y="529" width="339" height="520" frameX="0" frameY="-2" frameWidth="340" frameHeight="522"/>
+	<SubTexture name="Gf Scared0000" x="0" y="1051" width="336" height="522" frameX="0" frameY="0" frameWidth="338" frameHeight="522"/>
+	<SubTexture name="Gf Scared0001" x="336" y="1051" width="335" height="522" frameX="-3" frameY="0" frameWidth="338" frameHeight="522"/>
+</TextureAtlas>

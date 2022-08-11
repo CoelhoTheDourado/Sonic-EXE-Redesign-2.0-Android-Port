@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eggman Gaming.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gamer Eggman Down0000" x="20" y="20" width="1489" height="1029" frameX="0" frameY="-30" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0001" x="1528" y="20" width="1475" height="1038" frameX="-7" frameY="-21" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0002" x="3022" y="20" width="1460" height="1048" frameX="-14" frameY="-11" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0003" x="4501" y="20" width="1446" height="1059" frameX="-21" frameY="0" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0004" x="4501" y="20" width="1446" height="1059" frameX="-21" frameY="0" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0005" x="4501" y="20" width="1446" height="1059" frameX="-21" frameY="0" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0006" x="4501" y="20" width="1446" height="1059" frameX="-21" frameY="0" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0007" x="4501" y="20" width="1446" height="1059" frameX="-21" frameY="0" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0008" x="4501" y="20" width="1446" height="1059" frameX="-21" frameY="0" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0009" x="4501" y="20" width="1446" height="1059" frameX="-21" frameY="0" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Down0010" x="4501" y="20" width="1446" height="1059" frameX="-21" frameY="0" frameWidth="1489" frameHeight="1059"/>
+	<SubTexture name="Gamer Eggman Idle0000" x="5966" y="20" width="1372" height="948" frameX="-17" frameY="0" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0001" x="20" y="1098" width="1388" height="934" frameX="-9" frameY="-14" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0002" x="1427" y="1098" width="1406" height="921" frameX="0" frameY="-27" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0003" x="2852" y="1098" width="1388" height="934" frameX="-9" frameY="-14" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0004" x="5966" y="20" width="1372" height="948" frameX="-17" frameY="0" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0005" x="5966" y="20" width="1372" height="948" frameX="-17" frameY="0" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0006" x="5966" y="20" width="1372" height="948" frameX="-17" frameY="0" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0007" x="5966" y="20" width="1372" height="948" frameX="-17" frameY="0" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0008" x="5966" y="20" width="1372" height="948" frameX="-17" frameY="0" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0009" x="5966" y="20" width="1372" height="948" frameX="-17" frameY="0" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Idle0010" x="5966" y="20" width="1372" height="948" frameX="-17" frameY="0" frameWidth="1406" frameHeight="948"/>
+	<SubTexture name="Gamer Eggman Left0000" x="4259" y="1098" width="1745" height="979" frameX="0" frameY="-4" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0001" x="6023" y="1098" width="1734" height="981" frameX="-13" frameY="-2" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0002" x="20" y="2098" width="1725" height="982" frameX="-25" frameY="-1" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0003" x="1764" y="2098" width="1715" height="983" frameX="-38" frameY="0" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0004" x="1764" y="2098" width="1715" height="983" frameX="-38" frameY="0" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0005" x="1764" y="2098" width="1715" height="983" frameX="-38" frameY="0" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0006" x="1764" y="2098" width="1715" height="983" frameX="-38" frameY="0" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0007" x="1764" y="2098" width="1715" height="983" frameX="-38" frameY="0" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0008" x="1764" y="2098" width="1715" height="983" frameX="-38" frameY="0" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0009" x="1764" y="2098" width="1715" height="983" frameX="-38" frameY="0" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Left0010" x="1764" y="2098" width="1715" height="983" frameX="-38" frameY="0" frameWidth="1753" frameHeight="983"/>
+	<SubTexture name="Gamer Eggman Right0000" x="3498" y="2098" width="1554" height="1034" frameX="-39" frameY="0" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0001" x="5071" y="2098" width="1550" height="1031" frameX="-28" frameY="-4" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0002" x="20" y="3151" width="1551" height="1028" frameX="-16" frameY="-7" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0003" x="1590" y="3151" width="1557" height="1023" frameX="0" frameY="-11" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0004" x="1590" y="3151" width="1557" height="1023" frameX="0" frameY="-11" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0005" x="1590" y="3151" width="1557" height="1023" frameX="0" frameY="-11" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0006" x="1590" y="3151" width="1557" height="1023" frameX="0" frameY="-11" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0007" x="1590" y="3151" width="1557" height="1023" frameX="0" frameY="-11" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0008" x="1590" y="3151" width="1557" height="1023" frameX="0" frameY="-11" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0009" x="1590" y="3151" width="1557" height="1023" frameX="0" frameY="-11" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Right0010" x="1590" y="3151" width="1557" height="1023" frameX="0" frameY="-11" frameWidth="1593" frameHeight="1035"/>
+	<SubTexture name="Gamer Eggman Up0000" x="3166" y="3151" width="1767" height="1037" frameX="-9" frameY="0" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0001" x="4952" y="3151" width="1773" height="1036" frameX="-6" frameY="-1" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0002" x="20" y="4207" width="1780" height="1036" frameX="-3" frameY="-1" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0003" x="1819" y="4207" width="1786" height="1035" frameX="0" frameY="-2" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0004" x="1819" y="4207" width="1786" height="1035" frameX="0" frameY="-2" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0005" x="1819" y="4207" width="1786" height="1035" frameX="0" frameY="-2" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0006" x="1819" y="4207" width="1786" height="1035" frameX="0" frameY="-2" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0007" x="1819" y="4207" width="1786" height="1035" frameX="0" frameY="-2" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0008" x="1819" y="4207" width="1786" height="1035" frameX="0" frameY="-2" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0009" x="1819" y="4207" width="1786" height="1035" frameX="0" frameY="-2" frameWidth="1786" frameHeight="1037"/>
+	<SubTexture name="Gamer Eggman Up0010" x="1819" y="4207" width="1786" height="1035" frameX="0" frameY="-2" frameWidth="1786" frameHeight="1037"/>
+</TextureAtlas>

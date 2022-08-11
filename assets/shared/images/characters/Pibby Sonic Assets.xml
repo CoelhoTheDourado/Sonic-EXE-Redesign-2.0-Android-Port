@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pibby Sonic.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic Pibby Down0000" x="0" y="0" width="395" height="454" frameX="-101" frameY="0" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0001" x="395" y="0" width="473" height="448" frameX="-67" frameY="-9" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0002" x="868" y="0" width="550" height="443" frameX="-33" frameY="-15" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0003" x="1418" y="0" width="610" height="424" frameX="0" frameY="-34" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0004" x="2028" y="0" width="586" height="431" frameX="-14" frameY="-27" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0005" x="2614" y="0" width="560" height="440" frameX="-28" frameY="-18" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0006" x="3174" y="0" width="529" height="447" frameX="-43" frameY="-11" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0007" x="3703" y="0" width="497" height="448" frameX="-57" frameY="-9" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0008" x="4200" y="0" width="461" height="448" frameX="-72" frameY="-9" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0009" x="4661" y="0" width="421" height="450" frameX="-87" frameY="-6" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Down0010" x="0" y="0" width="395" height="454" frameX="-101" frameY="0" frameWidth="610" frameHeight="458"/>
+	<SubTexture name="Sonic Pibby Idle0000" x="5082" y="0" width="296" height="577" frameX="0" frameY="0" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0001" x="5378" y="0" width="319" height="562" frameX="-29" frameY="-15" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0002" x="5697" y="0" width="320" height="549" frameX="-47" frameY="-28" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0003" x="6017" y="0" width="305" height="530" frameX="-47" frameY="-47" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0004" x="6322" y="0" width="343" height="506" frameX="-47" frameY="-71" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0005" x="6665" y="0" width="382" height="485" frameX="-46" frameY="-92" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0006" x="7047" y="0" width="343" height="506" frameX="-47" frameY="-71" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0007" x="7390" y="0" width="305" height="530" frameX="-47" frameY="-47" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0008" x="7695" y="0" width="320" height="549" frameX="-47" frameY="-28" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0009" x="0" y="577" width="319" height="562" frameX="-29" frameY="-15" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Idle0010" x="5082" y="0" width="296" height="577" frameX="0" frameY="0" frameWidth="428" frameHeight="577"/>
+	<SubTexture name="Sonic Pibby Left0000" x="319" y="577" width="814" height="506" frameX="-193" frameY="-48" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0001" x="1133" y="577" width="877" height="518" frameX="-130" frameY="-37" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0002" x="2010" y="577" width="942" height="530" frameX="-65" frameY="-25" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0003" x="2952" y="577" width="1007" height="541" frameX="0" frameY="-13" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0004" x="3959" y="577" width="962" height="551" frameX="-45" frameY="-4" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0005" x="4921" y="577" width="920" height="555" frameX="-87" frameY="0" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0006" x="5841" y="577" width="880" height="553" frameX="-127" frameY="-2" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0007" x="6721" y="577" width="848" height="547" frameX="-159" frameY="-8" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0008" x="0" y="1139" width="826" height="536" frameX="-181" frameY="-19" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0009" x="826" y="1139" width="802" height="522" frameX="-205" frameY="-33" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby Left0010" x="1628" y="1139" width="777" height="506" frameX="-230" frameY="-48" frameWidth="1007" frameHeight="555"/>
+	<SubTexture name="Sonic Pibby RIght0000" x="2405" y="1139" width="695" height="445" frameX="0" frameY="0" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0001" x="3100" y="1139" width="741" height="439" frameX="-1" frameY="-8" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0002" x="3841" y="1139" width="788" height="429" frameX="-2" frameY="-18" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0003" x="4629" y="1139" width="849" height="422" frameX="-3" frameY="-23" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0004" x="5478" y="1139" width="814" height="423" frameX="-2" frameY="-23" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0005" x="6292" y="1139" width="778" height="424" frameX="-2" frameY="-23" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0006" x="7070" y="1139" width="742" height="424" frameX="-2" frameY="-23" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0007" x="0" y="1675" width="708" height="424" frameX="-1" frameY="-23" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0008" x="708" y="1675" width="671" height="424" frameX="-1" frameY="-23" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0009" x="1379" y="1675" width="637" height="423" frameX="0" frameY="-23" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby RIght0010" x="2016" y="1675" width="600" height="422" frameX="0" frameY="-23" frameWidth="852" frameHeight="447"/>
+	<SubTexture name="Sonic Pibby Up0000" x="2616" y="1675" width="299" height="665" frameX="-18" frameY="-224" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0001" x="2915" y="1675" width="270" height="741" frameX="-25" frameY="-149" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0002" x="3185" y="1675" width="268" height="816" frameX="-33" frameY="-75" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0003" x="3453" y="1675" width="234" height="891" frameX="-43" frameY="0" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0004" x="3687" y="1675" width="267" height="841" frameX="-33" frameY="-50" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0005" x="3954" y="1675" width="268" height="791" frameX="-26" frameY="-99" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0006" x="4222" y="1675" width="301" height="740" frameX="-17" frameY="-149" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0007" x="4523" y="1675" width="297" height="690" frameX="-11" frameY="-198" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0008" x="4820" y="1675" width="327" height="640" frameX="-5" frameY="-248" frameWidth="332" frameHeight="891"/>
+	<SubTexture name="Sonic Pibby Up0009" x="5147" y="1675" width="320" height="589" frameX="0" frameY="-298" frameWidth="332" frameHeight="891"/>
+</TextureAtlas>

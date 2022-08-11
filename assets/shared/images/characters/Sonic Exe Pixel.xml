@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic Exe Pixel.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic Exe Down0000" x="10" y="10" width="35" height="33" frameX="0" frameY="-2" frameWidth="37" frameHeight="35"/>
+	<SubTexture name="Sonic Exe Down0001" x="10" y="10" width="35" height="33" frameX="0" frameY="-2" frameWidth="37" frameHeight="35"/>
+	<SubTexture name="Sonic Exe Down0002" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0003" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0004" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0005" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0006" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0007" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0008" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0009" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0010" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0011" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0012" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Down0013" x="55" y="10" width="37" height="35"/>
+	<SubTexture name="Sonic Exe Idle0000" x="102" y="10" width="27" height="38"/>
+	<SubTexture name="Sonic Exe Idle0001" x="102" y="10" width="27" height="38"/>
+	<SubTexture name="Sonic Exe Idle0002" x="10" y="58" width="26" height="37" frameX="-1" frameY="-1" frameWidth="27" frameHeight="38"/>
+	<SubTexture name="Sonic Exe Idle0003" x="10" y="58" width="26" height="37" frameX="-1" frameY="-1" frameWidth="27" frameHeight="38"/>
+	<SubTexture name="Sonic Exe Idle0004" x="46" y="58" width="25" height="36" frameX="-2" frameY="-2" frameWidth="27" frameHeight="38"/>
+	<SubTexture name="Sonic Exe Idle0005" x="46" y="58" width="25" height="36" frameX="-2" frameY="-2" frameWidth="27" frameHeight="38"/>
+	<SubTexture name="Sonic Exe Idle0006" x="10" y="58" width="26" height="37" frameX="-1" frameY="-1" frameWidth="27" frameHeight="38"/>
+	<SubTexture name="Sonic Exe Idle0007" x="10" y="58" width="26" height="37" frameX="-1" frameY="-1" frameWidth="27" frameHeight="38"/>
+	<SubTexture name="Sonic Exe Idle0008" x="102" y="10" width="27" height="38"/>
+	<SubTexture name="Sonic Exe Idle0009" x="102" y="10" width="27" height="38"/>
+	<SubTexture name="Sonic Exe Idle0010" x="102" y="10" width="27" height="38"/>
+	<SubTexture name="Sonic Exe Idle0011" x="102" y="10" width="27" height="38"/>
+	<SubTexture name="Sonic Exe Idle0012" x="102" y="10" width="27" height="38"/>
+	<SubTexture name="Sonic Exe Idle0013" x="102" y="10" width="27" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0000" x="81" y="58" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0001" x="81" y="58" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0002" x="81" y="58" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0003" x="115" y="58" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0004" x="115" y="58" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0005" x="115" y="58" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0006" x="10" y="106" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0007" x="10" y="106" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0008" x="10" y="106" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0009" x="44" y="106" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0010" x="44" y="106" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0011" x="44" y="106" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0012" x="44" y="106" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Laugh0013" x="44" y="106" width="24" height="38"/>
+	<SubTexture name="Sonic Exe Left0000" x="78" y="106" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0001" x="78" y="106" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0002" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0003" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0004" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0005" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0006" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0007" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0008" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0009" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0010" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0011" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0012" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Left0013" x="10" y="154" width="43" height="35"/>
+	<SubTexture name="Sonic Exe Right0000" x="63" y="154" width="34" height="31" frameX="-1" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0001" x="63" y="154" width="34" height="31" frameX="-1" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0002" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0003" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0004" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0005" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0006" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0007" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0008" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0009" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0010" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0011" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0012" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Right0013" x="107" y="154" width="34" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="Sonic Exe Up0000" x="10" y="199" width="27" height="37"/>
+	<SubTexture name="Sonic Exe Up0001" x="10" y="199" width="27" height="37"/>
+	<SubTexture name="Sonic Exe Up0002" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0003" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0004" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0005" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0006" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0007" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0008" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0009" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0010" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0011" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0012" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="Sonic Exe Up0013" x="47" y="199" width="27" height="36" frameX="0" frameY="-1" frameWidth="27" frameHeight="37"/>
+</TextureAtlas>

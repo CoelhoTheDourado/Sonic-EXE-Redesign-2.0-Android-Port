@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic Exe Speaker.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic Exe Bruh0000" x="0" y="0" width="339" height="491" frameX="0" frameY="-6" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0001" x="0" y="0" width="339" height="491" frameX="0" frameY="-6" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0002" x="339" y="0" width="350" height="497"/>
+	<SubTexture name="Sonic Exe Bruh0003" x="339" y="0" width="350" height="497"/>
+	<SubTexture name="Sonic Exe Bruh0004" x="689" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0005" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0006" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0007" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0008" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0009" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0010" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0011" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0012" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0013" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0014" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0015" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0016" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0017" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0018" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0019" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0020" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0021" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0022" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0023" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0024" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0025" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0026" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0027" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0028" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0029" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0030" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0031" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0032" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0033" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0034" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0035" x="1385" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0036" x="1037" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Bruh0037" x="1733" y="0" width="350" height="497"/>
+	<SubTexture name="Sonic Exe Bruh0038" x="339" y="0" width="350" height="497"/>
+	<SubTexture name="Sonic Exe Bruh0039" x="2083" y="0" width="348" height="497" frameX="-2" frameY="0" frameWidth="350" frameHeight="497"/>
+	<SubTexture name="Sonic Exe Dancing Left0000" x="2431" y="0" width="378" height="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0001" x="2809" y="0" width="373" height="491" frameX="0" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0002" x="3182" y="0" width="365" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0003" x="3547" y="0" width="359" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0004" x="0" y="497" width="353" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0005" x="353" y="497" width="348" height="491" frameX="0" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0006" x="701" y="497" width="355" height="491" frameX="0" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0007" x="1056" y="497" width="359" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0008" x="1415" y="497" width="365" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0009" x="1780" y="497" width="371" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0010" x="2431" y="0" width="378" height="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0011" x="2431" y="0" width="378" height="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0012" x="2151" y="497" width="376" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0013" x="2527" y="497" width="376" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Left0014" x="2527" y="497" width="376" height="491" frameX="-2" frameY="0" frameWidth="378" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Dancing Right0000" x="2903" y="497" width="378" height="491" frameX="0" frameY="-4" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0001" x="3281" y="497" width="389" height="488" frameX="0" frameY="-7" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0002" x="3670" y="497" width="398" height="490" frameX="-2" frameY="-5" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0003" x="0" y="988" width="408" height="492" frameX="-2" frameY="-3" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0004" x="408" y="988" width="420" height="494" frameX="-2" frameY="-1" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0005" x="828" y="988" width="436" height="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0006" x="1264" y="988" width="422" height="494" frameX="0" frameY="-1" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0007" x="1686" y="988" width="408" height="492" frameX="-2" frameY="-3" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0008" x="2094" y="988" width="398" height="490" frameX="-2" frameY="-5" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0009" x="2492" y="988" width="387" height="488" frameX="-2" frameY="-7" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0010" x="2903" y="497" width="378" height="491" frameX="0" frameY="-4" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0011" x="2903" y="497" width="378" height="491" frameX="0" frameY="-4" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0012" x="2879" y="988" width="376" height="491" frameX="-2" frameY="-4" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0013" x="3255" y="988" width="376" height="491" frameX="-2" frameY="-4" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Dancing Right0014" x="3255" y="988" width="376" height="491" frameX="-2" frameY="-4" frameWidth="436" frameHeight="495"/>
+	<SubTexture name="Sonic Exe Scared0000" x="3631" y="988" width="317" height="491" frameX="-6" frameY="0" frameWidth="328" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Scared0001" x="0" y="1483" width="318" height="491" frameX="-10" frameY="0" frameWidth="328" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Scared0002" x="3631" y="988" width="317" height="491" frameX="-6" frameY="0" frameWidth="328" frameHeight="491"/>
+	<SubTexture name="Sonic Exe Scared0003" x="318" y="1483" width="316" height="491" frameX="0" frameY="0" frameWidth="328" frameHeight="491"/>
+</TextureAtlas>

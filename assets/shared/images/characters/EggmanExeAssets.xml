@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EggmanExeAssets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eggman Attack0000" x="0" y="0" width="620" height="605" frameX="0" frameY="-16" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0001" x="620" y="0" width="580" height="611" frameX="-12" frameY="-10" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0002" x="1200" y="0" width="561" height="616" frameX="-26" frameY="-5" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0003" x="1761" y="0" width="537" height="617" frameX="-28" frameY="-4" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0004" x="2298" y="0" width="520" height="617" frameX="-30" frameY="-4" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0005" x="2818" y="0" width="518" height="618" frameX="-31" frameY="-3" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0006" x="3336" y="0" width="516" height="619" frameX="-33" frameY="-2" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0007" x="3852" y="0" width="514" height="619" frameX="-35" frameY="-2" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0008" x="4366" y="0" width="512" height="620" frameX="-37" frameY="-1" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0009" x="4878" y="0" width="511" height="620" frameX="-38" frameY="-1" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Attack0010" x="5389" y="0" width="508" height="621" frameX="-40" frameY="0" frameWidth="620" frameHeight="621"/>
+	<SubTexture name="Eggman Down0000" x="5897" y="0" width="580" height="552" frameX="0" frameY="-32" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0001" x="6477" y="0" width="571" height="563" frameX="-4" frameY="-21" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0002" x="7048" y="0" width="561" height="574" frameX="-10" frameY="-10" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0003" x="7609" y="0" width="560" height="575" frameX="-11" frameY="-9" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0004" x="0" y="621" width="559" height="576" frameX="-11" frameY="-8" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0005" x="559" y="621" width="558" height="578" frameX="-12" frameY="-6" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0006" x="1117" y="621" width="557" height="579" frameX="-13" frameY="-5" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0007" x="1674" y="621" width="556" height="580" frameX="-13" frameY="-4" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0008" x="2230" y="621" width="555" height="581" frameX="-14" frameY="-3" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0009" x="2785" y="621" width="553" height="582" frameX="-15" frameY="-2" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Down0010" x="3338" y="621" width="552" height="584" frameX="-16" frameY="0" frameWidth="580" frameHeight="584"/>
+	<SubTexture name="Eggman Idle0000" x="3890" y="621" width="437" height="634"/>
+	<SubTexture name="Eggman Idle0001" x="4327" y="621" width="433" height="629" frameX="-3" frameY="-5" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0002" x="4760" y="621" width="428" height="624" frameX="-6" frameY="-10" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0003" x="5188" y="621" width="422" height="619" frameX="-10" frameY="-15" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0004" x="5610" y="621" width="419" height="614" frameX="-12" frameY="-20" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0005" x="6029" y="621" width="426" height="608" frameX="-3" frameY="-26" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0006" x="6455" y="621" width="419" height="614" frameX="-12" frameY="-20" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0007" x="6874" y="621" width="422" height="619" frameX="-10" frameY="-15" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0008" x="7296" y="621" width="428" height="624" frameX="-6" frameY="-10" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0009" x="7724" y="621" width="433" height="629" frameX="-3" frameY="-5" frameWidth="437" frameHeight="634"/>
+	<SubTexture name="Eggman Idle0010" x="3890" y="621" width="437" height="634"/>
+	<SubTexture name="Eggman Left0000" x="0" y="1255" width="622" height="638" frameX="0" frameY="0" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0001" x="622" y="1255" width="603" height="638" frameX="-27" frameY="-1" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0002" x="1225" y="1255" width="584" height="636" frameX="-54" frameY="-3" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0003" x="1809" y="1255" width="583" height="636" frameX="-56" frameY="-3" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0004" x="2392" y="1255" width="581" height="635" frameX="-59" frameY="-4" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0005" x="2973" y="1255" width="579" height="635" frameX="-62" frameY="-4" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0006" x="3552" y="1255" width="577" height="634" frameX="-65" frameY="-4" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0007" x="4129" y="1255" width="575" height="634" frameX="-68" frameY="-4" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0008" x="4704" y="1255" width="573" height="634" frameX="-71" frameY="-4" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0009" x="5277" y="1255" width="571" height="633" frameX="-74" frameY="-5" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Left0010" x="5848" y="1255" width="568" height="633" frameX="-77" frameY="-5" frameWidth="645" frameHeight="639"/>
+	<SubTexture name="Eggman Right0000" x="6416" y="1255" width="600" height="607" frameX="0" frameY="-7" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0001" x="7016" y="1255" width="590" height="609" frameX="-1" frameY="-5" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0002" x="7606" y="1255" width="580" height="612" frameX="-1" frameY="-2" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0003" x="0" y="1893" width="579" height="612" frameX="-1" frameY="-2" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0004" x="579" y="1893" width="578" height="612" frameX="-1" frameY="-2" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0005" x="1157" y="1893" width="577" height="612" frameX="-1" frameY="-2" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0006" x="1734" y="1893" width="576" height="613" frameX="-1" frameY="-1" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0007" x="2310" y="1893" width="575" height="613" frameX="-1" frameY="-1" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0008" x="2885" y="1893" width="574" height="613" frameX="-1" frameY="-1" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0009" x="3459" y="1893" width="573" height="613" frameX="-1" frameY="-1" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Right0010" x="4032" y="1893" width="572" height="614" frameX="-1" frameY="0" frameWidth="600" frameHeight="614"/>
+	<SubTexture name="Eggman Up0000" x="4604" y="1893" width="438" height="668" frameX="0" frameY="0" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0001" x="5042" y="1893" width="439" height="660" frameX="-3" frameY="-8" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0002" x="5481" y="1893" width="436" height="652" frameX="-6" frameY="-16" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0003" x="5917" y="1893" width="436" height="651" frameX="-6" frameY="-17" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0004" x="6353" y="1893" width="435" height="650" frameX="-7" frameY="-18" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0005" x="6788" y="1893" width="435" height="649" frameX="-7" frameY="-19" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0006" x="7223" y="1893" width="434" height="649" frameX="-7" frameY="-20" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0007" x="7657" y="1893" width="433" height="648" frameX="-8" frameY="-21" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0008" x="0" y="2561" width="433" height="647" frameX="-8" frameY="-22" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0009" x="433" y="2561" width="433" height="646" frameX="-8" frameY="-23" frameWidth="442" frameHeight="669"/>
+	<SubTexture name="Eggman Up0010" x="866" y="2561" width="431" height="645" frameX="-9" frameY="-24" frameWidth="442" frameHeight="669"/>
+</TextureAtlas>

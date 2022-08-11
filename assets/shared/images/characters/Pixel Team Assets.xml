@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pixel Team Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Team Idle0000" x="10" y="10" width="114" height="50" frameX="-1" frameY="0" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0001" x="10" y="10" width="114" height="50" frameX="-1" frameY="0" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0002" x="134" y="10" width="114" height="50" frameX="-1" frameY="0" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0003" x="258" y="10" width="114" height="49" frameX="-1" frameY="-1" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0004" x="382" y="10" width="115" height="49" frameX="0" frameY="-1" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0005" x="382" y="10" width="115" height="49" frameX="0" frameY="-1" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0006" x="10" y="70" width="114" height="48" frameX="-1" frameY="-2" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0007" x="10" y="70" width="114" height="48" frameX="-1" frameY="-2" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0008" x="134" y="70" width="114" height="48" frameX="-1" frameY="-2" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0009" x="258" y="70" width="114" height="50" frameX="-1" frameY="-1" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0010" x="382" y="70" width="114" height="50" frameX="-1" frameY="-1" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0011" x="382" y="70" width="114" height="50" frameX="-1" frameY="-1" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0012" x="10" y="130" width="114" height="50" frameX="-1" frameY="0" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0013" x="10" y="130" width="114" height="50" frameX="-1" frameY="0" frameWidth="115" frameHeight="51"/>
+	<SubTexture name="Team Idle0014" x="10" y="130" width="114" height="50" frameX="-1" frameY="0" frameWidth="115" frameHeight="51"/>
+</TextureAtlas>
