@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic Exe Idle"
+		},
+		{
+			"offsets": [
+				100,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic Exe Left"
+		},
+		{
+			"offsets": [
+				10,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic Exe Down"
+		},
+		{
+			"offsets": [
+				-25,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic Exe Up"
+		},
+		{
+			"offsets": [
+				-50,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic Exe Right"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Sonic Exe Laugh"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sonic Exe Pixel",
+	"position": [
+		350,
+		540
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		-190,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 9.99999999999998
+}

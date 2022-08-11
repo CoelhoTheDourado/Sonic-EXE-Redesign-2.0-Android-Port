@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Gamer Eggman Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				49
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "Gamer Eggman Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				44
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Gamer Eggman Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				66
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Gamer Eggman Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Gamer Eggman Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eggman Gaming",
+	"position": [
+		-300,
+		-50
+	],
+	"healthicon": "eggman",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		110,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

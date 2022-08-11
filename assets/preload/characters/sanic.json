@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sanic Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				0
+			],
+			"anim": "dead",
+			"fps": 24,
+			"name": "Sanic Died",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sanic Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				157
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sanic Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1000,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sanic Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sanic Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SanicAssets",
+	"position": [
+		200,
+		300
+	],
+	"healthicon": "sanic",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		72,
+		204
+	],
+	"camera_position": [
+		-150,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

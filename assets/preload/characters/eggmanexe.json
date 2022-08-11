@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Eggman Idle"
+		},
+		{
+			"offsets": [
+				126,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eggman Down"
+		},
+		{
+			"offsets": [
+				162,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eggman Left"
+		},
+		{
+			"offsets": [
+				11,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eggman Up"
+		},
+		{
+			"offsets": [
+				21,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eggman Right"
+		},
+		{
+			"offsets": [
+				110,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Eggman Attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EggmanExeAssets",
+	"position": [
+		150,
+		100
+	],
+	"healthicon": "eggmanexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		0
+	],
+	"camera_position": [
+		-240,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

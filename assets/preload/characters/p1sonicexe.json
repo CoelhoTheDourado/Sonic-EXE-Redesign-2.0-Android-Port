@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONICmoveUP0"
+		},
+		{
+			"offsets": [
+				-46,
+				-181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICmoveDOWN0"
+		},
+		{
+			"offsets": [
+				96,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICmoveRIGHT0"
+		},
+		{
+			"offsets": [
+				-25,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICmoveLEFT0"
+		},
+		{
+			"offsets": [
+				-1,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICmoveIDLE"
+		},
+		{
+			"offsets": [
+				-46,
+				-182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "SONICmoveDOWN MISS"
+		},
+		{
+			"offsets": [
+				96,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "SONICmoveRIGHT MISS"
+		},
+		{
+			"offsets": [
+				-25,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "SONICmoveLEFT MISS"
+		},
+		{
+			"offsets": [
+				18,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "SONICmoveUP MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "firstDeath",
+			"fps": 50,
+			"name": "SONIC DIED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "deathConfirm",
+			"fps": 50,
+			"name": "SONIC REVIVE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				80
+			],
+			"indices": [
+				49
+			],
+			"fps": 50,
+			"anim": "deathloop",
+			"loop": true,
+			"name": "SONIC DIED"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PlayableSonicExeAssets",
+	"position": [
+		125,
+		75
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		-50,
+		-250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

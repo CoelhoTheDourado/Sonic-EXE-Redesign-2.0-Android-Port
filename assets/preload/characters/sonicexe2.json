@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NewPhase2Sonic Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				-106
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NewPhase2Sonic Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "NewPhase2Sonic Laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NewPhase2Sonic Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-149
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "NewPhase2Sonic Laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-98
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "NewPhase2Sonic Roar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				19
+			],
+			"anim": "cutscene",
+			"fps": 24,
+			"name": "NewPhase2Sonic Cutscene",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				23
+			],
+			"anim": "cutscene2",
+			"fps": 24,
+			"name": "NewPhase2Sonic Get Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicExe2Assets",
+	"position": [
+		125,
+		42
+	],
+	"healthicon": "sonicexephase2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		28,
+		128
+	],
+	"camera_position": [
+		-150,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

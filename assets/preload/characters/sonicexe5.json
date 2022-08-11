@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic Exe Idle"
+		},
+		{
+			"offsets": [
+				230,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic Exe Left"
+		},
+		{
+			"offsets": [
+				106,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic Exe Down"
+		},
+		{
+			"offsets": [
+				115,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic Exe Up"
+		},
+		{
+			"offsets": [
+				1,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic Exe Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadnessSonicExeAssets",
+	"position": [
+		100,
+		150
+	],
+	"healthicon": "sonicexephase5",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		-150,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

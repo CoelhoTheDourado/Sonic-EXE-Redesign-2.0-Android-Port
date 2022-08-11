@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "stepitup",
+			"fps": 24,
+			"name": "Fleetway StepItUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-80
+			],
+			"anim": "too-slow",
+			"fps": 24,
+			"name": "Fleetway Too Slow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-25
+			],
+			"anim": "yourefinished",
+			"fps": 24,
+			"name": "Fleetway YoureFinished",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fleetway_Super_Sonic_Cutscene",
+	"position": [
+		-160,
+		-420
+	],
+	"healthicon": "fleetway",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		202,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

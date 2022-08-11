@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				66,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tails Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tails Idle"
+		},
+		{
+			"offsets": [
+				353,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tails Left"
+		},
+		{
+			"offsets": [
+				12,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tails Up"
+		},
+		{
+			"offsets": [
+				-114,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tails Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CrazyTailsAssets",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "crazytails",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		136,
+		0
+	],
+	"camera_position": [
+		-200,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

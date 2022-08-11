@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				131,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Fleetway Left"
+		},
+		{
+			"offsets": [
+				-30,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Fleetway Right"
+		},
+		{
+			"offsets": [
+				-6,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Fleetway Up"
+		},
+		{
+			"offsets": [
+				20,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Fleetway Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Fleetway Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				0
+			],
+			"anim": "what",
+			"fps": 24,
+			"name": "Fleetway WHAT?",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				75
+			],
+			"anim": "grr",
+			"fps": 24,
+			"name": "Fleetway Grrr",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fleetway_Super_Sonic_Phase_2",
+	"position": [
+		-160,
+		-420
+	],
+	"healthicon": "fleetway",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		202,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

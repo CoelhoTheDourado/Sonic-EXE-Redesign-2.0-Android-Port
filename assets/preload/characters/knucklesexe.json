@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Knuckles Idle"
+		},
+		{
+			"offsets": [
+				96,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Knuckles Down0"
+		},
+		{
+			"offsets": [
+				153,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Knuckles Left0"
+		},
+		{
+			"offsets": [
+				71,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Knuckles Right0"
+		},
+		{
+			"offsets": [
+				9,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Knuckles Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-7
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Knuckles Punch",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KnucklesExeAssets",
+	"position": [
+		230,
+		190
+	],
+	"healthicon": "knucklesexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		0,
+		0
+	],
+	"camera_position": [
+		-300,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

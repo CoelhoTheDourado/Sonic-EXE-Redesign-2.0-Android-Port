@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				90
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				69
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-31
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead Confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/LordDeath",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

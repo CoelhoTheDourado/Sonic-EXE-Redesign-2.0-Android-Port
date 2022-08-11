@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sunky Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sunky Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sunky Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sunky Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sunky Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Majin Sunky",
+	"position": [
+		150,
+		330
+	],
+	"healthicon": "sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		71,
+		251
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

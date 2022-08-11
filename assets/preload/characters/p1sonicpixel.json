@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic Idle"
+		},
+		{
+			"offsets": [
+				70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic Up0"
+		},
+		{
+			"offsets": [
+				90,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic Down0"
+		},
+		{
+			"offsets": [
+				30,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic Left0"
+		},
+		{
+			"offsets": [
+				100,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Sonic Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-100
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Sonic Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Sonic Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-70
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Sonic Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				-500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Sonic Revive"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				100
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Sonic Dead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Playable Sonic Pixel",
+	"position": [
+		-200,
+		950
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		204
+	],
+	"camera_position": [
+		300,
+		-1450
+	],
+	"sing_duration": 6.1,
+	"scale": 9.99999999999998
+}
