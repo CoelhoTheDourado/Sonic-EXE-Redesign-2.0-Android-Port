@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Team1Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Team10000" x="0" y="0" width="820" height="528"/>
+	<SubTexture name="Team10001" x="820" y="0" width="817" height="524" frameX="0" frameY="-4" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10002" x="1637" y="0" width="811" height="519" frameX="-2" frameY="-9" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10003" x="2448" y="0" width="806" height="519" frameX="-2" frameY="-9" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10004" x="3254" y="0" width="801" height="518" frameX="-2" frameY="-10" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10005" x="0" y="528" width="795" height="517" frameX="-2" frameY="-11" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10006" x="795" y="528" width="801" height="518" frameX="-2" frameY="-10" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10007" x="1596" y="528" width="807" height="519" frameX="-2" frameY="-9" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10008" x="2403" y="528" width="811" height="519" frameX="-2" frameY="-9" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10009" x="3214" y="528" width="815" height="524" frameX="-2" frameY="-4" frameWidth="820" frameHeight="528"/>
+	<SubTexture name="Team10010" x="0" y="1052" width="818" height="528" frameX="-2" frameY="0" frameWidth="820" frameHeight="528"/>
+</TextureAtlas>
