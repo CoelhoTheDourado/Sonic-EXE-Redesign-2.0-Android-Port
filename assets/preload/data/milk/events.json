@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "sunky",
+		"player1": "bf",
+		"player2": "sunky",
+		"player3": null,
+		"events": [
+			[
+				43225.8064516129,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				43870.9677419355,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					]
+				]
+			],
+			[
+				142016.129032258,
+				[
+					[
+						"Change Character",
+						"1",
+						"sanssunky"
+					]
+				]
+			],
+			[
+				152338.709677419,
+				[
+					[
+						"Change Character",
+						"1",
+						"majinsunky"
+					]
+				]
+			],
+			[
+				172983.870967742,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					]
+				]
+			],
+			[
+				183306.451612903,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				183951.612903226,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 186,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "milk"
+	}
+}
