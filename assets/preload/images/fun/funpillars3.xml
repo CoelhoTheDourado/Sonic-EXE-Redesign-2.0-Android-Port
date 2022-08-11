@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FII BG.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonicboppers10000" x="0" y="0" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10001" x="2492" y="0" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10002" x="4984" y="0" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10003" x="0" y="1234" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10004" x="2492" y="1234" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10005" x="4984" y="1234" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10006" x="0" y="2468" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10007" x="2492" y="2468" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10008" x="4984" y="2468" width="2492" height="1234"/>
+	<SubTexture name="sonicboppers10009" x="0" y="0" width="2492" height="1234"/>
+</TextureAtlas>
