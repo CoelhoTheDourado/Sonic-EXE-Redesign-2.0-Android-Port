@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh No ! Green hill glitched "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But who are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Exe Speak",
+			"text": "Its me Miles Tails Prower and i am dead"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Exe Speak",
+			"text": "Sonic have problem he kill so many peoples and me i was running to angel island and he catch me and kill me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok but your are a tails soul "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Exe Speak",
+			"text": "Exactly Mr blue hair"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but why green hill getting glitch"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sorry for my bad english"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Exe Speak",
+			"text": "Sonic take the control and destroy the earth"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "WE NEED TO SAVE THE WORLD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Exe Speak",
+			"text": "If you want to save the earth"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Exe Speak",
+			"text": "you need to beat executor and save people with singing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Exe Speak",
+			"text": "sure"
+		}
+	]
+}
