@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "exe2",
+		"player1": "p1sonicexe",
+		"player2": "exe",
+		"player3": null,
+		"events": [
+			[
+				131200,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						"5"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				195200,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				220000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				233600,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "p2lordx",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Slaybells"
+	}
+}
