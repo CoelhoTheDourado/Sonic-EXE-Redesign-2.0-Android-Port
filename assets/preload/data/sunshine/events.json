@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "doll",
+		"player1": "bf-SS",
+		"player2": "tailsdoll",
+		"player3": null,
+		"events": [
+			[
+				83994.0476190476,
+				[
+					[
+						"Change Character",
+						"1",
+						"tailsdollalt"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						"5"
+					]
+				]
+			],
+			[
+				122857.142857143,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Change Character",
+						"1",
+						"tailsdoll"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 105,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sunshine"
+	}
+}
