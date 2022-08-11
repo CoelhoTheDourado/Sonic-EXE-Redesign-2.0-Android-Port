@@ -1,10 +1,10 @@
 {	
-	"titlex":-150,
-	"titley":-100,
+	"titlex":5000,
+	"titley":-5000,
 	"startx":100,
 	"starty":576,
-	"gfx":512,
+	"gfx":140,
 	"gfy":40,
-	"backgroundSprite":"",
+	"backgroundSprite":"TitleMenuSSBG instance 1",
 	"bpm":102
 }
