@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		90
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "Sonic Exe Speak",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Sonic Exe Speak0004",
+			"loop_name": "Sonic Exe Speak"
+		},
+		{
+			"idle_offsets": [
+				1,
+				0
+			],
+			"anim": "Not Happy Sonic Exe Speak",
+			"loop_offsets": [
+				1,
+				0
+			],
+			"idle_name": "Not Happy Sonic Exe Speak0004",
+			"loop_name": "Not Happy Sonic Exe Speak"
+		},
+		{
+			"idle_offsets": [
+				20,
+				120
+			],
+			"anim": "Sonic Exe Speak Phase 2",
+			"loop_offsets": [
+				20,
+				120
+			],
+			"idle_name": "Sonic Exe Phase 2 Speak0004",
+			"loop_name": "Sonic Exe Phase 2 Speak"
+		},
+		{
+			"idle_offsets": [
+				50,
+				150
+			],
+			"anim": "Sonic Exe Speak Phase 3",
+			"loop_offsets": [
+				50,
+				150
+			],
+			"idle_name": "Sonic Exe Phase 3 Speak0004",
+			"loop_name": "Sonic Exe Phase 3 Speak"
+		},
+		{
+			"loop_name": "Happy Sonic Exe Speak",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Happy Sonic Exe Speak0004",
+			"anim": "Happy Sonic Exe Speak",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Sonic Exe Dialogue"
+}

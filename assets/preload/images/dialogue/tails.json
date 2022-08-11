@@ -1,0 +1,37 @@
+{
+	"position": [
+		250,
+		80
+	],
+	"dialogue_pos": "left",
+	"scale": 1.8,
+	"image": "Tails Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Tails Speak",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Tails Speak",
+			"idle_name": "Tails Speak0004"
+		},
+		{
+			"loop_name": "Tails Exe Speak",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Tails Exe Speak0004",
+			"anim": "Tails Exe Speak",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

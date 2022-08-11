@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		200,
+		80
+	],
+	"scale": 1.8,
+	"animations": [
+		{
+			"loop_name": "Knuckles Speak",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Knuckles Speak0004",
+			"anim": "Knuckles Speak",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Knuckles Exe Speak",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Knuckles Exe Speak0004",
+			"anim": "Knuckles Exe Speak",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Knuckles Dialogue"
+}
