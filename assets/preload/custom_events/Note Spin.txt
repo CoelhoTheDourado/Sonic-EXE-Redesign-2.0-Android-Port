@@ -1,0 +1,5 @@
+Smoothly sets the Opponent's
+transparency value.
+
+Value 1: figure it out
+Value 2: bitch
