@@ -1,0 +1,98 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "fleetway",
+		"player1": "bfpixel",
+		"player2": "fleetwaypixel",
+		"player3": "teamscaredpixel",
+		"events": [
+			[
+				21587.3015873016,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				31746.0317460317,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				40634.9206349206,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				62222.2222222223,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				80000.0000000001,
+				[
+					[
+						"Change Character",
+						"BF",
+						"superbfpixel"
+					]
+				]
+			],
+			[
+				82539.6825396826,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				100079.365079365,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				122539.682539683,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"bpm": 189,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "chaos"
+	}
+}
