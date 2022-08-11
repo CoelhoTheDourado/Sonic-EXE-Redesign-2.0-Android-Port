@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "Wow"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "this is my last song on this week"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh shit here we go again"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "angry",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "Now"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "I WILL KILL YOU FROM THE INSIDE LITTLE BITCH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ok"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "sonicexe",
+			"boxState": "angry",
+			"expression": "Sonic Exe Speak Phase 3",
+			"text": "TIME TO DIE SUCKER"
+		}
+	]
+}
