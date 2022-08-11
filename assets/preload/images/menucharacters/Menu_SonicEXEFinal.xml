@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_SonicEXEFinal.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic Exe Final0000" x="10" y="10" width="962" height="841" frameX="-5" frameY="-44" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0001" x="982" y="10" width="960" height="840" frameX="-4" frameY="-46" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0002" x="1952" y="10" width="958" height="838" frameX="-3" frameY="-48" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0003" x="2920" y="10" width="958" height="841" frameX="-1" frameY="-46" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0004" x="3888" y="10" width="957" height="844" frameX="0" frameY="-43" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0005" x="4855" y="10" width="957" height="847" frameX="-2" frameY="-40" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0006" x="5822" y="10" width="958" height="851" frameX="-3" frameY="-36" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0007" x="6790" y="10" width="960" height="870" frameX="-4" frameY="-18" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0008" x="10" y="890" width="960" height="880" frameX="-6" frameY="-8" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0009" x="980" y="890" width="963" height="871" frameX="-7" frameY="-17" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0010" x="1953" y="890" width="963" height="884" frameX="-7" frameY="-4" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0011" x="2926" y="890" width="962" height="887" frameX="-5" frameY="-1" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0012" x="3898" y="890" width="960" height="889" frameX="-4" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0013" x="4868" y="890" width="958" height="889" frameX="-3" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0014" x="5836" y="890" width="958" height="889" frameX="-1" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0015" x="6804" y="890" width="957" height="889" frameX="0" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0016" x="10" y="1789" width="957" height="889" frameX="-2" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0017" x="977" y="1789" width="958" height="889" frameX="-3" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0018" x="1945" y="1789" width="960" height="889" frameX="-4" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0019" x="2915" y="1789" width="960" height="889" frameX="-6" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0020" x="3885" y="1789" width="963" height="889" frameX="-7" frameY="0" frameWidth="970" frameHeight="889"/>
+	<SubTexture name="Sonic Exe Final0021" x="3885" y="1789" width="963" height="889" frameX="-7" frameY="0" frameWidth="970" frameHeight="889"/>
+</TextureAtlas>

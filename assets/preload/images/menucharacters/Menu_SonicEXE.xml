@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_SonicEXE.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicEXEIDLE0000" x="0" y="0" width="350" height="498" frameX="-2" frameY="-5" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0001" x="350" y="0" width="351" height="498" frameX="-2" frameY="-5" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0002" x="701" y="0" width="349" height="496" frameX="-4" frameY="-7" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0003" x="1050" y="0" width="344" height="488" frameX="-14" frameY="-15" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0004" x="1394" y="0" width="343" height="485" frameX="-17" frameY="-18" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0005" x="0" y="498" width="343" height="485" frameX="-18" frameY="-18" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0006" x="343" y="498" width="344" height="485" frameX="-17" frameY="-18" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0007" x="687" y="498" width="345" height="488" frameX="-14" frameY="-15" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0008" x="1032" y="498" width="350" height="500" frameX="-3" frameY="-3" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0009" x="1382" y="498" width="352" height="502" frameX="0" frameY="-1" frameWidth="361" frameHeight="503"/>
+	<SubTexture name="SonicEXEIDLE0010" x="0" y="1000" width="352" height="503" frameX="0" frameY="0" frameWidth="361" frameHeight="503"/>
+</TextureAtlas>

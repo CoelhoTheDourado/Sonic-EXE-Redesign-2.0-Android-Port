@@ -1,0 +1,10 @@
+{
+	"idle_anim": "SonicEXEIDLE",
+	"image": "Menu_SonicExe",
+	"position": [
+		70,
+		70
+	],
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}

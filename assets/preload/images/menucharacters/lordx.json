@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Lord X Week",
+	"image": "Lord X Week Assets",
+	"position": [
+		370,
+		250
+	],
+	"scale": 0.55,
+	"confirm_anim": "Lord X Confirm"
+}
