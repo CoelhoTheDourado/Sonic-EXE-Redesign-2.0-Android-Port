@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "This is too easy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 2",
+			"text": "Ok i see.You are better like the last time"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "sonicexe",
+			"boxState": "angry",
+			"expression": "Sonic Exe Speak Phase 2",
+			"text": "Now It Time To Suffer"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ok and"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "by away its was really hard your last song on the first week called i am god is really hard with some death note"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonicexe",
+			"boxState": "normal",
+			"expression": "Sonic Exe Speak Phase 2",
+			"text": "ok but now it time to rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sorry"
+		}
+	]
+}
