@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "knuckles",
+			"boxState": "normal",
+			"expression": "Knuckles Speak",
+			"text": "what just happen guys and who is this little guy tails"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Speak",
+			"text": "KNUCKLES YOU ARE ALIVE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "knuckles",
+			"boxState": "normal",
+			"expression": "Knuckles Speak",
+			"text": "Yes but who is this guy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Speak",
+			"text": "Knuckles I present you mr boyfriend or Big F and he saved you with the power of singing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "knuckles",
+			"boxState": "normal",
+			"expression": "Knuckles Speak",
+			"text": "Nice to meet you little guy and thx for saving me "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "Knuckles Speak",
+			"text": "np knuckles"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "Eggman Exe Speak",
+			"text": "Knuckles you disappoint me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "Eggman Exe Speak",
+			"text": "Oh its dr eggman"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "angry",
+			"expression": "Eggman Exe Speak",
+			"text": "SHUT UP KID"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "Eggman Exe Speak",
+			"text": "I work with executor and you saved them without permission of the master"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "Eggman Exe Speak",
+			"text": "SHUT UP EGGMAN!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "you've got a small dick. It's the size of this walnut except WAY smaller"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "knuckles",
+			"boxState": "angry",
+			"expression": "Knuckles Speak",
+			"text": "NO SWEARING!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "Eggman Exe Speak",
+			"text": "ok but now its time to die"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tails",
+			"boxState": "normal",
+			"expression": "Tails Speak",
+			"text": "Good Luck Boyfriend"
+		}
+	]
+}
